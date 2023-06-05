@@ -6,3 +6,26 @@ h1 {
     font-size: 50px;
     font-weight: bolder;
 }
+
+.main {
+    text-align: center;
+    color: lightblue;
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+img {
+    height: fit-content;
+    width: fit-content;
+}
+
+.chicken {
+    text-align: center;
+    color: chocolate;
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 600;
+}
