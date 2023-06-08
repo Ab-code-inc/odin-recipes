@@ -1,31 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5em;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 150px;
+    height: auto;
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+}
+
 h1 {
-    text-align: center;
-    color: brown;
-    background-color: blanchedalmond;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 50px;
-    font-weight: bolder;
-}
-
-.main {
-    text-align: center;
-    color: lightblue;
-    background-color: beige;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
-    font-weight: 600;
-}
-
-img {
-    height: fit-content;
-    width: fit-content;
-}
-
-.chicken {
-    text-align: center;
-    color: chocolate;
-    background-color: beige;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
-    font-weight: 600;
+    background-color: lightblue;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    display: inline-block;
 }
