@@ -5,22 +5,41 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: rgb(162, 201, 181);
 }
 
 img{
     width: 150px;
     height: auto;
-    display: inline-block;
 }
 
-li {
-    display: inline-block;
+.main_image{
+    width: 300px;
+    height:auto;
 }
+
 
 h1 {
-    background-color: lightblue;
     color: black;
-    margin: 10px;
+    margin-bottom: 5px;
     padding: 5px;
     display: inline-block;
 }
+
+button{
+    background-color: rgb(201, 199, 198);
+    font-style: normal;
+    color: brown;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    margin: 5px 0;
+    padding: 0;
+}
+
+a{
+    background-color:rgb(201, 199, 198);
+    color: rgb(5, 20, 32);
+    font-weight: bold;
+}
+
